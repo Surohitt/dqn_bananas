@@ -1,7 +1,7 @@
-.ipynb_checkpoints
+.ipynb_checkpoints/
 .idea 
-Banana_Linux
-__pycache__
+Banana_Linux/
+__pycache__/
 .python-version
 .Navigation_pixels.ipynb
 unity-environment.log
